@@ -1,0 +1,31 @@
+#home {
+	background: #ffc107;
+	color: white;
+}
+
+.caixa {
+	padding: 60px 0;
+	border-bottom: 1px solid #e5e5e5;
+}
+
+footer p a {
+	margin: 5px 15px;
+}
+
+.twitter:hover {
+	color: rgb(60, 133, 228);
+}
+
+.face:hover {
+	color: rgb(16, 50, 161);
+}
+
+.insta:hover {
+	color: rgb(222, 60, 228);
+}
+
+header ul li a:hover {
+	padding: 10px;
+	background-color: white;
+	border-radius: 10px;
+}
